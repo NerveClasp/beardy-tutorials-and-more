@@ -7,7 +7,8 @@
         "limitSymbolsToIncludedHeaders": false,
         "path": [
           "/opt/arduino-1.8.5/hardware/arduino/avr/cores/arduino",
-          "/home/fedora/Arduino"
+          "/home/fedora/Arduino",
+          "/Users/romn.horokhov/Documents/Arduino"
         ]
       },
       "intelliSenseMode": "clang-x64",
