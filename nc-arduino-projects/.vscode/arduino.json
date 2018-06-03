@@ -1,0 +1,5 @@
+{
+    "sketch": "naillamp/naillamp.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "/dev/ttyACM0"
+}
